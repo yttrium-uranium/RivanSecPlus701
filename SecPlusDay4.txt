@@ -1,4 +1,4 @@
-TASK1: WEAPONS OF AN ITIL foundation/practioner
+ TASK1: WEAPONS OF AN ITIL foundation/practioner
 1. cloud/virtualization skills:
 
 TASK2: USERNAMES and passwords we Use:
@@ -271,6 +271,7 @@ Champions the development of the Armed Forces' cyber units and prioritizes defen
 Institutionalizes national strategies for collaboration across government, critical infrastructure, and private sectors.
 
 Conclusion
+
 
 
 
