@@ -18,7 +18,7 @@ Step 4: Verify SSH is Running
 	sudo systemctl restart ssh
 	/etc/ssh/sshd_config
 	
-
+ 
 TASK1: install xampp of linux:
 
 download xampp for linux in kali downloads folder:
@@ -422,6 +422,7 @@ Rank	SOC Service	Description
 7️⃣	Compliance and Reporting Support	Generating security reports, maintaining audit trails, and helping meet frameworks like NIST, ISO 27001, PCI-DSS, HIPAA, GDPR, DPA
 
 8️⃣	Security Awareness & User Education	Providing phishing simulations, security training, and policy awareness to reduce human error and social engineering risks.
+
 
 
 
